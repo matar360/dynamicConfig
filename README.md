@@ -1,1 +1,1 @@
-npm i dynamicmask
+```npm i dynamicmask``` 
